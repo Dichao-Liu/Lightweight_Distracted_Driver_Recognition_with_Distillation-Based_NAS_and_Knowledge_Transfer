@@ -1,1 +1,1 @@
-# Lightweight_Distracted_Driver_Recognition_with_Distillation-Based_NAS_and_Knowledge_Transfer
+# Towards Extremely Lightweight Distracted Driver Recognition with Distillation-Based Neural Architecture Search and Knowledge Transfer

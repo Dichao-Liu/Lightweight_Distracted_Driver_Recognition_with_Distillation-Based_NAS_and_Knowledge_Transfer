@@ -7,7 +7,6 @@ This source code was tested in the following environment:
     PyTorch = 1.7.0
     torchvision = 0.4.2
     Ubuntu 18.04.5 LTS
-    GeForce GTX 1080 Ti * 2
     timm = 0.1.26
     cuda = 10.2
 
